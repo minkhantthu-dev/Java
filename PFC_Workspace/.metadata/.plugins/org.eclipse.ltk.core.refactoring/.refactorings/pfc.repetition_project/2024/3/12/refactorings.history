@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pfc.repetition_project.nested.GuessGame&apos; to &apos;GuessGame_Lv1&apos;&#x0D;&#x0A;- Original project: &apos;pfc.repetition_project&apos;&#x0D;&#x0A;- Original element: &apos;pfc.repetition_project.nested.GuessGame&apos;&#x0D;&#x0A;- Renamed element: &apos;pfc.repetition_project.nested.GuessGame_Lv1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GuessGame&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pfc.repetition_project.nested{GuessGame.java[GuessGame" matchStrategy="1" name="GuessGame_Lv1" qualified="false" references="true" similarDeclarations="false" stamp="1710658937178" textual="false" version="1.0"/>
+</session>

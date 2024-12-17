@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pfc.repeatation_project&apos; to &apos;pfc.repetition_project&apos;" description="Rename resource &apos;pfc.repeatation_project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/pfc.repeatation_project" name="pfc.repetition_project" stamp="1709966561220" updateReferences="true"/>
+</session>
